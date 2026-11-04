@@ -1,0 +1,1 @@
+{"name": "균형 쌓기", "short_name": "균형 쌓기", "id": "./", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f5f6f4", "theme_color": "#b65b37", "lang": "ko", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}
